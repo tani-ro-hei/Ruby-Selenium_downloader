@@ -1,0 +1,7 @@
+http://www.example.com/hoge01.html
+http://www.example.com/hoge02.html
+http://www.example.com/hoge03.html
+http://www.example.com/fuga01.html
+http://www.example.com/fuga02.html
+http://www.example.com/fuga03.html
+...
